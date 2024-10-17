@@ -1,5 +1,5 @@
 let boxes = document.querySelectorAll(".box");
-let resetBtn = document.querySelector("#reset-btn");
+let resetBtn = document.querySelector("#Reset-btn");
 let newGameBtn = document.querySelector("#new-btn");
 let magsContainer = document.querySelector(".mgs-container");
 let mags = document.querySelector(".mags");
